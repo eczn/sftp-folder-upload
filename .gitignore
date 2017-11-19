@@ -1,6 +1,7 @@
 # ignore some file 
 
 node_modules/ 
+npm-debug.log*
 package-lock.json
 just_test_folder/ 
 test.js
