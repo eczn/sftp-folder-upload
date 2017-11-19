@@ -1,0 +1,6 @@
+# ignore some file 
+
+node_modules/ 
+package-lock.json
+just_test_folder/ 
+test.js

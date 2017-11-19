@@ -1,0 +1,22 @@
+{
+  "name": "sftp-folder-upload",
+  "version": "0.0.1",
+  "description": "upload an entire folder to your server by sftp with a simple config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sftp",
+    "upload",
+    "folder",
+    "server"
+  ],
+  "author": "eczn",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^7.1.1",
+    "ssh2-sftp-client": "^2.0.1",
+    "then-fs": "^2.0.0"
+  }
+}
